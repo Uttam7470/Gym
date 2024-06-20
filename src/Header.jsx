@@ -16,7 +16,8 @@ function Header() {
         </p>
       </div>
       <div id="image">
-        <img src="https://steelsupplements.com/cdn/shop/articles/single-arm-db-row-min_1000x.jpg?v=1662648403"></img>
+        {/* <img src="https://steelsupplements.com/cdn/shop/articles/single-arm-db-row-min_1000x.jpg?v=1662648403"></img> */}
+        <img src="https://media.istockphoto.com/id/490377019/photo/bodybuilder.jpg?s=612x612&w=0&k=20&c=zFl3NXDv1Yl_GrlljrTyVm9j1GGHoeygUoM_BRTIaIg=" alt=""  />
         <img src="https://i0.wp.com/www.muscleandfitness.com/wp-content/uploads/2014/09/Backflex.jpg?quality=86&strip=all"></img>
       </div>
     </div>

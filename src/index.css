@@ -22,7 +22,7 @@
   font-size: 3rem;
   padding: 1rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  text-shadow: 3px 3px 1px rgb(0, 179, 255);
+  /* text-shadow: 3px 3px 1px rgb(0, 179, 255); */
 }
 
 #header p{
